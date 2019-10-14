@@ -22,8 +22,6 @@ var hitName = positions[2], hitPrice = prices[2];
 // Задание 1
 let hit = {};
 
-// hit['name'] =  hitName;
-// hit['price'] = hitPrice;
 hit.name =  hitName;
 hit.price = hitPrice;
 
